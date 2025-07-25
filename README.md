@@ -33,7 +33,7 @@ Me gusta trabajar con las últimas tecnologías para construir proyectos prácti
 > **Herramientas como Figma y Wordpress las utilizo para realizar MVP's, basados en el modelo Lean Startup**
 ---
 
-## 🎯 Mi enfoque
+## 🎯 Enfoque
 
 > "El éxito es crear soluciones simples y originales que realmente faciliten la vida de las personas."  
 
@@ -49,6 +49,6 @@ Me gusta trabajar con las últimas tecnologías para construir proyectos prácti
 Si eres un profesional con experiencia técnica y ganas de participar en proyectos innovadores que aportan valor real, me encantaría que nos conectáramos y creáramos juntos.
 
 ---
-## **🔗 Mis enlaces clave:**
+## **🔗 Enlaces clave:**
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-19126c?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iv%C3%A1n-rejas-cuevas-014889371/) [![Portfolio](https://img.shields.io/badge/Portfolio-NodoWeb-19126c?style=for-the-badge&logo=vercel&logoColor=white)](https://nodoweb.net) [![Spotify](https://img.shields.io/badge/Spotify-Playlist-19126c?style=for-the-badge&logo=spotify&logoColor=white)](TU_PLAYLIST_SPOTIFY)
 
