@@ -1,3 +1,1 @@
-<img width="1200" height="600" alt="Iván Rejas" src="https://github.com/user-attachments/assets/43c22d05-7e25-4192-81a7-168a96a96881" />
-
----
+<img width="1200" height="600" alt="Iván Rejas (1)" src="https://github.com/user-attachments/assets/9b114962-69d0-4f8c-9727-7f0d6bee9816" />
