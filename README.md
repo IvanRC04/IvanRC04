@@ -1,4 +1,4 @@
-<img width="1200" height="400" alt="Iván Rejas Cuevas" src="https://github.com/user-attachments/assets/65a47735-2f20-49ab-8839-4c5ace0d5cf9" />
+<img width="3168" height="792" alt="image-mesh-gradient (6)" src="https://github.com/user-attachments/assets/d7901cc8-fa17-4401-a964-2cfae7162f58" />
 
 Soy un apasionado de la tecnología aplicada a resolver problemas reales. Tengo experiencia en áreas como:
 
